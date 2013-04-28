@@ -1,0 +1,46 @@
+.wp-pluso-wrapper { float:left; width:100%; text-align:center}
+
+
+
+
+
+
+
+
+
+
+
+
+/**Top**/
+.pluso-r-t {
+	float:right;
+}
+.pluso-c-t {
+	display:block;
+	margin: 0 auto;
+}
+.pluso-l-t {
+	float:left;
+}
+/**Middle**/
+.pluso-r-m {
+	float:right;
+}
+.pluso-c-m {
+	display:block;
+	margin: 0 auto;
+}
+.pluso-l-m {
+	float:left;
+}
+/**Bottom**/
+.pluso-r-b {
+	float:right;
+}
+.pluso-l-b {
+	float:left
+}
+.pluso-c-b {
+	display:block;
+	margin: 0 auto;
+}
