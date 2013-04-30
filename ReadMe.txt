@@ -19,16 +19,18 @@ Wordpress Pluso plugin adds Pluso social buttons into the site.
 
 == Description ==
 
+Get more traffic back to your site by installing the Wordpress Pluso plugin
 Wordpress Pluso is a plugin to add social buttons to the Wordpress site.
 You can choose from different russian and international social networks and configure the style of buttons.
 For example, you can change size, color, order, layout of the social network buttons.
+Our buttons are unobtrusive, quick to load and recognized all over the web.
 
 == Installation ==
 
-To use Wordpress Signaturer, you will need:
+To use Wordpress Pluso, you will need:
 
 * 	an installed and configured copy of WordPress version 2.6.x, 2.5.x,
-	2.3.x, 2.2.x, 2.1.x, 2.0.x, or 1.5.x. (Wordpress Signaturer will also work with
+	2.3.x, 2.2.x, 2.1.x, 2.0.x, or 1.5.x. (Wordpress Pluso will also work with
 	the equivalent versions of WordPress MU.)
 
 
@@ -39,14 +41,14 @@ To use Wordpress Signaturer, you will need:
 
 2.	Upload plugin on your site via Wordpress Console.
 
-3.	Log in to the WordPress Dashboard and activate the Wordpress Signaturer plugin.
+3.	Log in to the WordPress Dashboard and activate the Wordpress Pluso plugin.
 
 4.	Configure the plugin and add it to the plugin settings page.
 
 == Frequently Asked Questions ==
 
-Q: How do I add a new phrase? 
-R: Copy the phrase in the box "Add signature phrases," and click "Add".
+Q: How do I add Pluso social buttons? 
+R: Configure the buttons and add them within the plugin activation.
 
 == Screenshots ==
 
@@ -60,7 +62,7 @@ Plugin release. Operate all the basic functions.
 
 == License ==
 
-The Wordpress Signaturer plugin is copyright A© 2009 with [GNU General Public License][] by dimio. 
+The Wordpress Pluso plugin is copyright A© 2009 with [GNU General Public License][] by dimio. 
 
 This program is free software; you can redistribute it and/or modify it under
 the terms of the [GNU General Public License][] as published by the Free
